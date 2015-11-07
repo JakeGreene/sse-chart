@@ -1,4 +1,5 @@
-This is your new Play application
+Chart Updates Using Server-Sent-Events
 =================================
 
-This file will be packaged with your application, when using `activator dist`.
+This is a test project for using server-sent-events to update
+chart data.
