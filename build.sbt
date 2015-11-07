@@ -10,6 +10,7 @@ libraryDependencies ++= Seq(
   jdbc,
   cache,
   ws,
+  "joda-time" % "joda-time" % "2.9",
   specs2 % Test
 )
 
